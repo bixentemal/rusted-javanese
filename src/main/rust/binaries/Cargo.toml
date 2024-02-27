@@ -1,0 +1,17 @@
+[package]
+name = "rusted-javanese"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "RedRiverRebellion"
+path = "src//RedRiverRebellion.rs"
+
+[[bin]]
+name = "RegionalRailJet"
+path = "src/RegionalRailJet.rs"
+
+[[bin]]
+name = "RealJumpingJamboree"
+path = "src/RealJumpingJamboree.rs"
+
